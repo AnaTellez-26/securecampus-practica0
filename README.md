@@ -5,3 +5,5 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 
 ## Equipo
 - Ana Cecilia Renteria Tellez
+## Seguridad
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
